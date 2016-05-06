@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: Robin Ward
 
-register_custom_html(extraNavItem: "<li><a href='/c/ideas?order=votes'>Most Votes</a></li>")
+register_custom_html(extraNavItem: "<li><a href='/c/l/posts?order=votes'>Most Votes</a></li>")
